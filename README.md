@@ -234,6 +234,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Author
 
-**[Your Name]**
-[University / Institute]
-[Contact email or GitHub profile link]
+**Rana Zaeem & Azam Effendi**
+[zaeemrana168@gmail.com]
