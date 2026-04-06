@@ -1,0 +1,57 @@
+
+# ── Patient Data (Privacy) ─────────────────────────────────
+processed_images/
+PatientImages_MATCHED.xlsx
+extracted_images/
+
+# ── Model Checkpoints & Weights (Large Files) ──────────────
+*.keras
+*.h5
+*.pt
+*.pth
+checkpoints/
+checkpoints_v2/
+checkpoints_B_Local/
+checkpoints_C_Local/
+
+# ── Experiment Results (Generated Outputs) ─────────────────
+results_A/
+results_B/
+results_C/
+results_v2/
+results A/
+results B/
+results C/
+results
+# ── Python Environments ────────────────────────────────────
+msk_env/
+msk_env_311/
+.env
+.venv
+env/
+venv/
+.env.example
+
+# ── Python Cache ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter Notebooks ──────────────────────────────────────
+.ipynb_checkpoints/
+ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS & Editor Files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ── Logs & Temp Files ──────────────────────────────────────
+*.log
+*.tmp
+*.bak
